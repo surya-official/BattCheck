@@ -28,7 +28,10 @@
 ⚡ **Works offline**  
 🪶 **Lightweight GUI + CLI in one**
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surya-official/BattCheck/main/BattCheck%20Screenshot.png" alt="BattCheck Screenshot" height="570">
+</p>
+
 
 ## 📦 What's Inside
 
